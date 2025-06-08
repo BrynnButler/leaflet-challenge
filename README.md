@@ -21,7 +21,3 @@ Part 2: Gather and Plot More Data (Optional with no extra points earning)
 - Popups show location, magnitude, and depth
 - Color legend included
 - Built with Leaflet.js and D3.js
-
-## Live Map  
-**View the interactive map here:**  
-[https://brynnbutler.github.io/leaflet-challenge/](https://brynnbutler.github.io/leaflet-challenge/)
